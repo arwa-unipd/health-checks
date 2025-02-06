@@ -1,1 +1,1 @@
-this is done for the tutorial related to gethub
+this is done for the tutorial related to github
